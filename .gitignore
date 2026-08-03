@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# Whitelist contract files
+!contracts
+!contracts/**
+
+# Whitelist repository metadata
+!LICENSE
+!.gitignore
